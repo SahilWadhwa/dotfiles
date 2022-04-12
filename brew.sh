@@ -6,6 +6,8 @@ brew install tree
 brew install awscli
 brew install asdf
 brew install pyenv
+brew install docker-compose
+
 
 mkdir ~/.nvm
 brew install nvm
